@@ -31,10 +31,10 @@ https://archive.ics.uci.edu/dataset/186/wine+quality
 ---
 # Python Packages Used
 
-Numpy
-Sklearn
-Matplotlib
-Pandas
-UMAP
+* Numpy
+* Sklearn
+* Matplotlib
+* Pandas
+* UMAP
 
 
