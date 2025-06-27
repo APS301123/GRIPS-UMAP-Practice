@@ -1,6 +1,6 @@
 # GRIPS-UMAP-Practice
 
-This is a project created to track my learning of UMAP. This does not include any ML applications of UMAP yet.
+This is a project created to track my learning of UMAP. This does not include any ML applications of UMAP yet. IMPORTANT: The descriptions of the UMAP graphs are inaccurate as they are based on previously incorrect code that as been updated.
 
 ---
 
